@@ -1,1 +1,1 @@
-# npx-clawhub-latest-install-verified-agent-identity
+install-verified-agent-identity
